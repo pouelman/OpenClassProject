@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-Super cagnotte!
-=======
 Super cagnotte!
 Tu es niaiseux
->>>>>>> 1d25aecd626a866ae950077674ecb529f1274128
